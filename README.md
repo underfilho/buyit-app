@@ -2,6 +2,8 @@
 
 Buyit (available on [Google Play](https://play.google.com/store/apps/details?id=dev.ander.buyit)) is a flutter app focused on progress and organization of your wish list and highly centered on design and user experience. Here you can set your desired items and knowing your monthly income destined for your list the app will calculte everything about it, make predictions and keep track of your progress.
 
+![app](./assets/images/app.png)
+
 # Buyit - Construction
 
 The app is currently not open source, but I can talk a little about its construction process.
